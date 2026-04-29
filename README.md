@@ -20,7 +20,7 @@ Contrary to common macro-assumptions, the data revealed a compelling story of **
 Before modeling, we examined the correlation between key control variables (e.g., JV Duration, US Ownership, Parent Innovation) to ensure no severe multicollinearity existed.
 ![Correlation Heatmap](correlation_heatmap.png)
 
-### 2. Business Reality: Survival Trend (2016-2021)
+### 2. Business Reality: Survival Trend (2015-2024)
 This chart illustrates the actual survival rates of JVs. Notably, after the policy shock was initiated in 2018, neither High Tech-Sensitive JVs nor Low Tech-Sensitive JVs experienced a cliff-drop in survival rates. The ecosystem proved to be highly robust.
 ![JVs Survival Rate Trend](survival_resilience_trend.png)
 
